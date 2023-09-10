@@ -9,6 +9,7 @@
 * Q&A forum: <https://forum.opencv.org>
   * previous forum (read only): <http://answers.opencv.org>
 * Issue tracking: <https://github.com/opencv/opencv/issues>
+* 
 * Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib> 
 
 
